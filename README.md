@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Conner-Selby
 - 👀 I’m interested in pursuing a career in Software Development
 - 🌱 I’m currently working to improve and demonstrate my skills in a variety of languages
-- 💞️ I’m looking to collaborate on any small projects related to Java, C++, Python, JavaScript and more!
+- 💞️ I’m looking to collaborate on projects related to Java, C++, Python, JavaScript and more!
 - 📫 You can reach me via my LinkedIn: www.linkedin.com/in/conner-selby
 
 <!---
